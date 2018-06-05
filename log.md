@@ -8,7 +8,7 @@
 
 **Link to work:** [Chat app](http://demochat.helper-studio.com)
 
-### Day 1: June 05, 2018 
+### Day 2: June 05, 2018 
 
 **Today's Progress**: added /users method on the backend, created user.service and userlist.component on the frontend Angular app
 
