@@ -18,6 +18,16 @@
 **Link to backend repo:** [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
 **Link to frontend repo:** [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
 
+### Day 3: June 06, 2018 
+
+**Today's Progress**: display users in user list as circles of random color filled with first letters of user name
+
+**Thoughts:** Need to refactor user list as service. It will allow simple work with user list when socket events will raise (new user connect, some user disconnect)
+
+**Link to work:** [Chat app](http://demochat.helper-studio.com)
+**Link to backend repo:** [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
+**Link to frontend repo:** [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
+
 **Link(s) to work**
 1. [Chat app](http://demochat.helper-studio.com)
 
