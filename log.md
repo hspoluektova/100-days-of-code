@@ -28,6 +28,16 @@
 **Link to backend repo:** [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
 **Link to frontend repo:** [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
 
+### Day 4: June 07, 2018 
+
+**Today's Progress**: start implement integration tests with mocha and chai 
+
+**Thoughts:** need more investigate testing process. Can't start mocha with right command
+
+**Link to work:** [Chat app](http://demochat.helper-studio.com)
+**Link to backend repo:** [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
+**Link to frontend repo:** [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
+
 **Link(s) to work**
 1. [Chat app](http://demochat.helper-studio.com)
 
