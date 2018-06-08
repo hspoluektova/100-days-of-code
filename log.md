@@ -38,6 +38,16 @@
 **Link to backend repo:** [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
 **Link to frontend repo:** [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
 
+### Day 5: June 08, 2018 
+
+**Today's Progress**: Implemented one integration test for method returning connected user list using mocha chai and supertest. 
+
+**Thoughts:** It was not very simple but I've finally understood how it works and how to use await inside tests. I could not start my mocha tests yesterday because I tried to run my server before test, but I've found that mocha do it also. So i just removed npm start command before mocha test command and my test run successfully 
+
+**Link to work:** [Chat app](http://demochat.helper-studio.com)
+**Link to backend repo:** [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
+**Link to frontend repo:** [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
+
 **Link(s) to work**
 1. [Chat app](http://demochat.helper-studio.com)
 
