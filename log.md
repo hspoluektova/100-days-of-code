@@ -48,6 +48,15 @@
 **Link to backend repo:** [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
 **Link to frontend repo:** [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
 
+### Day 6: June 09, 2018 
+
+**Today's Progress**: Tried implement one more test, but found that first one does not work 
+
+**Thoughts:** Need more investigation in async/await mocha tests
+
+**Link to work:** [Chat app](http://demochat.helper-studio.com)
+**Link to backend repo:** [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
+**Link to frontend repo:** [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
 **Link(s) to work**
 1. [Chat app](http://demochat.helper-studio.com)
 
