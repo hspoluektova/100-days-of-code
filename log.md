@@ -84,6 +84,18 @@
 **Link(s) to work**
 1. [Chat app](http://demochat.helper-studio.com)
 
+### Day 9: June 13, 2018 
+
+**Today's Progress**: Finished user list feature + updated demo server 
+
+**Thoughts:** 
+
+**Link to work:** [Chat app](http://demochat.helper-studio.com)
+**Link to backend repo:** [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
+**Link to frontend repo:** [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
+**Link(s) to work**
+1. [Chat app](http://demochat.helper-studio.com)
+
 **Link(s) to repos**
 1. [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
 2. [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
