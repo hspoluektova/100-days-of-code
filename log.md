@@ -96,6 +96,19 @@
 **Link(s) to work**
 1. [Chat app](http://demochat.helper-studio.com)
 
+### Day 10: June 14, 2018 
+
+**Today's Progress**: Started new sprint - google authentication. Create app in google console, implemented first part of oauth2 (redirect to google oauth form)
+
+**Thoughts:**: stash in git is not scary as I thought ;)
+
+**Link to work:** [Chat app](http://demochat.helper-studio.com)
+**Link to backend repo:** [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
+**Link to frontend repo:** [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
+**Link(s) to work**
+1. [Chat app](http://demochat.helper-studio.com)
+
+================================
 **Link(s) to repos**
 1. [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
 2. [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
