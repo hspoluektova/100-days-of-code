@@ -108,6 +108,18 @@
 **Link(s) to work**
 1. [Chat app](http://demochat.helper-studio.com)
 
+### Day 11: June 15, 2018 
+
+**Today's Progress**: Started implementation of google token validation
+
+**Thoughts:**: not very productive today...
+
+**Link to work:** [Chat app](http://demochat.helper-studio.com)
+**Link to backend repo:** [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
+**Link to frontend repo:** [Frontend repo for chat app](https://github.com/HelperStudio/chat-fe)
+**Link(s) to work**
+1. [Chat app](http://demochat.helper-studio.com)
+
 ================================
 **Link(s) to repos**
 1. [Backend repo for chat app](https://github.com/HelperStudio/chat-be)
