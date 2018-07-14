@@ -9,3 +9,6 @@ Was working on authorization via Google Oauth2. Not fully implemented yet, but I
 
 ### R1D2
 Not very productive, but I did my best! Worked under google oauth2 authorization. Wrote methods on backend for exchanging authorization code and implemented frontenf part which receives code from google and send it to backend
+
+### R1D3
+Debugged google oauth2. Don't know why, but fiddler does not capture all traffic from my pc, only from edge browser. It is weird. Proxy settings seems to be right. 
