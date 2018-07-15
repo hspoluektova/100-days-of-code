@@ -12,3 +12,6 @@ Not very productive, but I did my best! Worked under google oauth2 authorization
 
 ### R1D3
 Debugged google oauth2. Don't know why, but fiddler does not capture all traffic from my pc, only from edge browser. It is weird. Proxy settings seems to be right. 
+
+### R1D4
+I've almost finished implementation of google oauth. The problem was in content type. Seems posting data as json is not supported by google api "token" method. Rewrited it to form data. Next step is to rewrite some existing code with new user model
