@@ -15,3 +15,6 @@ Debugged google oauth2. Don't know why, but fiddler does not capture all traffic
 
 ### R1D4
 I've almost finished implementation of google oauth. The problem was in content type. Seems posting data as json is not supported by google api "token" method. Rewrited it to form data. Next step is to rewrite some existing code with new user model
+
+### R1D5
+Authorization via Google is completed! But it is very basic authorization, not secure.. I must make it more secure and use token validation while user uses app. But this feature is not in the current sprint. My next step is show user avatar near messages 
