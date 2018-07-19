@@ -18,3 +18,9 @@ I've almost finished implementation of google oauth. The problem was in content 
 
 ### R1D5
 Authorization via Google is completed! But it is very basic authorization, not secure.. I must make it more secure and use token validation while user uses app. But this feature is not in the current sprint. My next step is show user avatar near messages 
+
+### R1D6
+Today I implemented displaying user avatar from google in user list. Next step is to display this avatar near every message. 
+
+### R1D7
+Today I added user avatars from google near user messages. Looks nice, but I've also found some bugs.. next step is to run integration tests and check what becomes broken after last changes. And I must write some new tests to cover new functionality
