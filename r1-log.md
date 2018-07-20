@@ -24,3 +24,6 @@ Today I implemented displaying user avatar from google in user list. Next step i
 
 ### R1D7
 Today I added user avatars from google near user messages. Looks nice, but I've also found some bugs.. next step is to run integration tests and check what becomes broken after last changes. And I must write some new tests to cover new functionality
+
+### R1D8
+Made one small fix on frontend and fixed integration tests. I thought about how to test google oauth, but I have no idea yet. Maybe I don't need such kind of test. I'll think more about it
