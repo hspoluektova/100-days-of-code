@@ -27,3 +27,9 @@ Today I added user avatars from google near user messages. Looks nice, but I've 
 
 ### R1D8
 Made one small fix on frontend and fixed integration tests. I thought about how to test google oauth, but I have no idea yet. Maybe I don't need such kind of test. I'll think more about it
+
+## R1D9
+Closed 2nd sprint and started 3rd. My first task is create DB and integrate in with existing code. I must use DB instead of memory storages. I chose PostgreSQL as DB. I know it is free, pretty cool and fast.  And I started write init migration in node 
+
+## R1D10
+Completed init migration, wrote 3 repositories and 1 querier. I use node-postgres to communicate with db and I like it! It supports async/await and my code looks pretty clear! I thought I complete db integration today, but seems it will take more time
