@@ -33,3 +33,6 @@ Closed 2nd sprint and started 3rd. My first task is create DB and integrate in w
 
 ## R1D10
 Completed init migration, wrote 3 repositories and 1 querier. I use node-postgres to communicate with db and I like it! It supports async/await and my code looks pretty clear! I thought I complete db integration today, but seems it will take more time
+
+## R1D11
+Today I refactored a lot! I must rewrite all my code working with memory storages to work with #PostgreSQL. Auth methods complete but I still have a lot of TODOs. Hope finish it in 1-2 days
