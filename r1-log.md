@@ -36,3 +36,6 @@ Completed init migration, wrote 3 repositories and 1 querier. I use node-postgre
 
 ## R1D11
 Today I refactored a lot! I must rewrite all my code working with memory storages to work with #PostgreSQL. Auth methods complete but I still have a lot of TODOs. Hope finish it in 1-2 days
+
+## R1D12
+Was debugging refactored auth method. I had SO MUCH BUGS! And I don't even write any tests on this new code!
