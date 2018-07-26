@@ -39,3 +39,6 @@ Today I refactored a lot! I must rewrite all my code working with memory storage
 
 ## R1D12
 Was debugging refactored auth method. I had SO MUCH BUGS! And I don't even write any tests on this new code!
+
+##R1D13
+I've almost completed fixing bugs. I changed frontend-backend flow a little and now I must write addititional REST method to get user by id
